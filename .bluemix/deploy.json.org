@@ -138,8 +138,7 @@
         "repo-branch",
         "deploy-org",
         "deploy-space",
-	"deploy-suffix",
-	"ibmid-user",
+        "ibmid-user",
         "ibmid-pass",
         "shared-secret",
         "mysql-servers-us",
@@ -159,8 +158,8 @@
         {
             "type": "text",
             "readonly": false,
-            "title": "Deployment suffix (to make hostname unique)",
-            "key": "deploy-suffix"
+            "title": "Git repo branch",
+            "key": "repo-branch"
         },
         {
             "type": "text",
